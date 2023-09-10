@@ -1,0 +1,39 @@
+/* class Main {
+  public static void main(String[] args) {
+    int x = 1;
+      int y = 2;
+      int z = 3;
+    System.out.println(z);
+System.out.println(y);
+System.out.println(x);
+  
+  }
+} */
+/* class Main {
+ public static void main(String[] args) {
+int x = 1;
+  Float y = 2.5F;
+  System.out.println(x+"   "+y);
+   
+ }
+}
+*/
+/* class Main {
+ public static void main(String[] args) {
+   char x= 'm';
+  char y= 'i';
+     char z= 'k';
+   char w= 'a';
+     System.out.println(x+""+y+z+w);
+     }
+     
+ } */
+/* class Main {
+ public static void main(String[] args) {
+   int x = 4;
+   int y = 1;
+     System.out.println(x+" "+"is smaller then"+" "+y);
+     }
+
+
+ }*/
